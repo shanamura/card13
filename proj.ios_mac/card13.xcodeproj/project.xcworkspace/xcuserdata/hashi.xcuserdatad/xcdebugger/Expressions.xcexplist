@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HelloWorld::update(float):HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_timer">
+            </PersistentString>
+            <PersistentString
+               value = "timerLabel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CardSprite::onEnter():HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_PosIndex.x">
+            </PersistentString>
+            <PersistentString
+               value = "_PosIndex.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CardSprite::moveToInitPos()::$_1::operator()() const:HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "setTexture">
+            </PersistentString>
+            <PersistentString
+               value = "_card.type">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
