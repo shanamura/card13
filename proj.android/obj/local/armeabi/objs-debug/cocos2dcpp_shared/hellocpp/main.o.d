@@ -8,63 +8,65 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/ccConfig.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/CCPlatformDefine.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCRefPtr.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCRef.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/ccMacros.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/time.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdint.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/time.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/signal.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/limits.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/limits.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/limits.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/limits.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/page.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/string.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/malloc.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/signal.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/CCStdC.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/math.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdlib.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/ccRandom.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/random \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCVector.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCMap.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCAutoreleasePool.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCNS.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../math/CCGeometry.h \
@@ -90,14 +92,14 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/ccTypes.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/CCGL.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCGL-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCConfiguration.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCValue.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCDirector.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCVector.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../2d/CCScene.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../2d/CCNode.h \
@@ -110,20 +112,20 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCEventTouch.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCEvent.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCEventKeyboard.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../math/CCAffineTransform.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/CCGLView.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCScheduler.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/uthash.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/base64.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/ZipUtils.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCFileUtils-android.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/CCFileUtils.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCData.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCProfiling.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCMap.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h \
@@ -248,8 +250,8 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/ccShaders.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCTexture2D.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureCache.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/queue \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexData.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCPrimitive.h \
@@ -335,7 +337,7 @@ obj/local/armeabi/objs-debug/cocos2dcpp_shared/hellocpp/main.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCDataVisitor.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCSet.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCInteger.h \
@@ -365,7 +367,7 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCPlatformDefine-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCRefPtr.h:
 
@@ -375,109 +377,113 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCConsole.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/cdefs_elf.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/api-level.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/time.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/time.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdint.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdint.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/_types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/_wchar_limits.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/posix_types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/stddef.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/compiler.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/posix_types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/kernel.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/sysmacros.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/time.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/time.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/signal.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/signal.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/limits.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/limits.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/limits.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/limits.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/linux/limits.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/linux/limits.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/internal_types.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/machine/limits.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/machine/limits.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/syslimits.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/page.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/page.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/string.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/string.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/malloc.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/malloc.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/signal.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/signal.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/signal.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/sigcontext.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm/siginfo.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/asm-generic/siginfo.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/ucontext.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/user.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
+
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
+
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/CCStdC.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCStdC-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/math.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdlib.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/ccRandom.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/random:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCVector.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCMap.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCAutoreleasePool.h:
 
@@ -529,13 +535,13 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../platform/android/CCGL-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCConfiguration.h:
 
@@ -543,7 +549,7 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCDirector.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCVector.h:
 
@@ -569,7 +575,7 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCEventKeyboard.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../math/CCAffineTransform.h:
 
@@ -577,11 +583,11 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCScheduler.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/uthash.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/inttypes.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/base64.h:
 
@@ -593,9 +599,9 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCData.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../base/CCProfiling.h:
 
@@ -845,9 +851,9 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCTextureCache.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/queue:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../renderer/CCVertexIndexBuffer.h:
 
@@ -1019,7 +1025,7 @@ jni/../../Classes/AppDelegate.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCString.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/3d/../deprecated/CCArray.h:
 

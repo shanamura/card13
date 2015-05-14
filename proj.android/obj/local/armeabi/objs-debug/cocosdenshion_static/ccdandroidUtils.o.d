@@ -1,7 +1,7 @@
 obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/ccdandroidUtils.cpp \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/ccdandroidUtils.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/string \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../cocos2d.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ccConfig.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCPlatformConfig.h \
@@ -10,30 +10,30 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ccConfig.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCPlatformDefine.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCPlatformDefine-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCRefPtr.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCRef.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ccMacros.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCConsole.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCStdC.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCStdC-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/math.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdlib.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ccRandom.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/random \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCVector.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCMap.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCAutoreleasePool.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCNS.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../math/CCGeometry.h \
@@ -59,14 +59,14 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ccTypes.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCGL.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCGL-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCConfiguration.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCValue.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCDirector.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCVector.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../2d/CCScene.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../2d/CCNode.h \
@@ -79,20 +79,20 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCEventTouch.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCEvent.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCEventKeyboard.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../math/CCAffineTransform.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCGLView.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCScheduler.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/uthash.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/inttypes.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/base64.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ZipUtils.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCFileUtils-android.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCFileUtils.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCData.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCProfiling.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCMap.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCConsole.h \
@@ -217,8 +217,8 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/ccShaders.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCTexture2D.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCTextureCache.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/queue \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCVertexIndexBuffer.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCVertexIndexData.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCPrimitive.h \
@@ -304,7 +304,7 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCArray.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCDataVisitor.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCString.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCArray.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCSet.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCInteger.h \
@@ -318,7 +318,7 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/ccdandroidUtils.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/string:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/string:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../cocos2d.h:
 
@@ -336,7 +336,7 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCPlatformDefine-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCRefPtr.h:
 
@@ -346,43 +346,43 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCConsole.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/sys/select.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/sys/select.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/thread:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/thread:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/map:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/map:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/mutex:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/mutex:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/CCStdC.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCStdC-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/math.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/math.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/stdlib.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/stdlib.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/alloca.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/alloca.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/strings.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/strings.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/memory.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/memory.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/cassert:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/cassert:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/ccRandom.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/random:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/random:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCVector.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCMap.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCAutoreleasePool.h:
 
@@ -434,13 +434,13 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../platform/android/CCGL-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2platform.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/KHR/khrplatform.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/GLES2/gl2ext.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCConfiguration.h:
 
@@ -448,7 +448,7 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCDirector.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/stack:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/stack:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCVector.h:
 
@@ -474,7 +474,7 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCEventKeyboard.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/list:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/list:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../math/CCAffineTransform.h:
 
@@ -482,11 +482,11 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCScheduler.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/set:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/set:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/uthash.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/inttypes.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/inttypes.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/base64.h:
 
@@ -498,9 +498,9 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCData.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/jni.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/jni.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/asset_manager.h:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../base/CCProfiling.h:
 
@@ -750,9 +750,9 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCTextureCache.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/condition_variable:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/condition_variable:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/queue:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/queue:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../renderer/CCVertexIndexBuffer.h:
 
@@ -924,7 +924,7 @@ obj/local/armeabi/objs-debug/cocosdenshion_static/ccdandroidUtils.o: \
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCString.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/sstream:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/sstream:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/audio/android/../../deprecated/CCArray.h:
 

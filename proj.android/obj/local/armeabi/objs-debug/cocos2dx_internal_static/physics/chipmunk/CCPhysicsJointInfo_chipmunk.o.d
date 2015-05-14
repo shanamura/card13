@@ -6,10 +6,10 @@ obj/local/armeabi/objs-debug/cocos2dx_internal_static/physics/chipmunk/CCPhysics
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./platform/CCPlatformMacros.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./platform/CCPlatformDefine.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h \
- /Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map \
- /Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm \
+ /Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map \
+ /Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./../external/chipmunk/include/chipmunk/chipmunk.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./../external/chipmunk/include/chipmunk/chipmunk_types.h \
  /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./../external/chipmunk/include/chipmunk/cpVect.h \
@@ -44,13 +44,13 @@ obj/local/armeabi/objs-debug/cocos2dx_internal_static/physics/chipmunk/CCPhysics
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./platform/android/CCPlatformDefine-android.h:
 
-/Users/hashi/Library/android-ndk-r9d/platforms/android-9/arch-arm/usr/include/android/log.h:
+/Users/hashi/Library/android-ndk-r10d/platforms/android-9/arch-arm/usr/include/android/log.h:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/vector:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/vector:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/unordered_map:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/unordered_map:
 
-/Users/hashi/Library/android-ndk-r9d/sources/cxx-stl/gnu-libstdc++/4.8/include/algorithm:
+/Users/hashi/Library/android-ndk-r10d/sources/cxx-stl/gnu-libstdc++/4.9/include/algorithm:
 
 /Users/hashi/Documents/cocos2d-x/project/card13/proj.android/../cocos2d/cocos/./../external/chipmunk/include/chipmunk/chipmunk.h:
 
